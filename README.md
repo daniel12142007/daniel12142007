@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **daniel@gmail.com**
 
-- ⚡ Fun fact **I always watch anime and I love Anime hot Girls**
+- ⚡ Fun fact **i businesswoman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
