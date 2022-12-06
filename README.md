@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **daniel@gmail.com**
 
-- ⚡ Fun fact **i businesswoman**
+- ⚡ Fun fact **I businesswoman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
