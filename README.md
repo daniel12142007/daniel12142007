@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **daniel@gmail.com**
 
-- Bio << I love hot anime girls and I am to Hot Boy >>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
