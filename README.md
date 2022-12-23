@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center"><d1 style="background-color:DodgerBlue;">A passionate backend developer from Kyrgyzstan</d1></h3>
-
+<t1 style="background-color:DodgerBlue;">Hi bro</t1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel12142007" alt="daniel12142007" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
