@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **daniel@gmail.com**
 
-<n align="left">< a=h href="![image](https://user-images.githubusercontent.com/117821905/209342433-444544d3-603b-4467-8706-a02f3d26a2b2.png)"alt="dniel12142007"/></h></n>
+<n align="left">< h=h href="![image](https://user-images.githubusercontent.com/117821905/209342433-444544d3-603b-4467-8706-a02f3d26a2b2.png)""/></h></n>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">![image](https://user-images.githubusercontent.com/117821905/209342271-6996dd76-42dd-4deb-a784-40a24a941143.png)
+<p align="left">!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
