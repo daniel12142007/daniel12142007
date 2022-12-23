@@ -9,7 +9,7 @@
 - 📫 How to reach me **daniel@gmail.com**
 
 
-<h3 align="left">]</h3>
+<h3 align="left"></h3>
 <p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/25/25b290f8841fb70efab773245a972b04.jpeg"alt="anime">
 </p>
 
