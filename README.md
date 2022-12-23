@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **daniel@gmail.com**
 
-<n align="left">"[image](https://user-images.githubusercontent.com/117821905/209342433-444544d3-603b-4467-8706-a02f3d26a2b2.png)""/></n>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">!
