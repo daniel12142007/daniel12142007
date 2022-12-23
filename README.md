@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">https://stock.adobe.com/de/search?k=anime
+<p align="left">![image](https://user-images.githubusercontent.com/117821905/209342271-6996dd76-42dd-4deb-a784-40a24a941143.png)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
