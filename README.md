@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><video width="320" height="240" controls><source src="https://media.istockphoto.com/id/1341458171/video/blue-infinity-symbol-3d-render-seamless-loop-animation.mp4?s=mp4-640x640-is&k=20&c=f_oAmAsZbpqYQlNrzonEoJ3ErhqnpWJzg4YTbaFFsmU=" type="video/mp4"></video>
+<p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/25/25b290f8841fb70efab773245a972b04.jpeg"alt="anime">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
