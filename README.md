@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">!
+<p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/25/25b290f8841fb70efab773245a972b04.jpeg"alt="anime oboi">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
