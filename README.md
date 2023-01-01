@@ -10,7 +10,7 @@
 
 
 <h3 align="left"></h3>
-<p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/25/25b290f8841fb70efab773245a972b04.jpeg"alt="anime">
+<p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/bf/bf272cf3d1b2a031b57e87c980633922.jpeg?h=900&r=0.5">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
