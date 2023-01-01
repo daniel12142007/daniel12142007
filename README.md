@@ -10,7 +10,7 @@
 
 
 <h3 align="left"></h3>
-<p align="left"><img src="https://mobimg.b-cdn.net/v3/fetch/bf/bf272cf3d1b2a031b57e87c980633922.jpeg?h=900&r=1">
+<p align="left"><img src="https://million-wallpapers.ru/wallpapers/3/60/9711581260296049905/gorod-san-francisko-noch-ogni-most-san-francisco.jpg">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
